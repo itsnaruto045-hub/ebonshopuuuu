@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
     "start": "node --loader ts-node/esm server/index.ts",
     "build": "vite build",
     "preview": "vite preview"
